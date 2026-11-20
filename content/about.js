@@ -9,22 +9,25 @@ export const details = [
   ["Personal interests", "Football, Gaming, R&B Music, Movies."],
   [
     "Professional interests",
-    "Design systems, accessibility, game-inspired interfaces and motion design.",
+    "Back-end development, cloud computing, and game development.",
   ],
   [
     "Learning journey",
-    "Started with paper wireframes, moved to Figma, and now learns front-end basics and AWS fundamentals with the AWS Learning Club.",
+    "Started learning web development in 2023, and design in 2025. Currently learning cloud computing and game development.",
   ],
   [
     "Career goals",
-    "Lead design on products that make people feel welcome on their first day.",
+    "Gain experience in front and back end development, and eventually become a game developer or data scientist.",
   ],
-  ["Mission", "Every first day should feel like a hello, not a hurdle."],
+  ["Mission", "Make work that is accessible, inclusive, and fun."],
 ];
 
 export const highlights = [
   ["Current focus", "A design system for cloud learners"],
-  ["Main interest", "Playful, accessible interfaces"],
+  [
+    "Main interest",
+    "Playful, accessible interfaces, readable code, and fun experiences",
+  ],
   ["Learning goal", "AWS cloud fundamentals"],
   ["Professional aspiration", "Game Developer or Data Scientist"],
 ];
